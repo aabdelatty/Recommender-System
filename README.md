@@ -2,7 +2,7 @@
 This repository gives an introduction to recommender systems and the state of the art recommender models. Also, the repository provides different implementations for two-steps recommenders using TensorFlow. 
 
 A two-step recommender system is a type of recommender system that separates the recommendation problem into two stages: retrieval and ranking. In the first stage, a retrieval model selects a subset of items from a large catalog that are relevant to the user query or context. In the second stage, a ranking model reorders the retrieved items according to their predicted utility or preference for the user. A two-step recommender system can improve the efficiency and accuracy of recommendations by reducing the search space and optimizing different objectives at each stage.
-![alt text](https://www.researchgate.net/profile/Jiaxi-Tang/publication/341128860/figure/fig1/AS:889131790004224@1588996946292/A-two-stage-recommender-system-that-serves-users-highly-personalized-content-within-the.png)
+![alt text](https://miro.medium.com/v2/resize:fit:720/format:webp/1*v3vWFYmejaHzx1GSLVngaw.jpeg)
 # Table of contents
 1. [Introduction](#introduction)
 2. [Recommender Systems Paradigms](#recommender-systems-paradigms)
