@@ -8,7 +8,7 @@ A two-step recommender system is a type of recommender system that separates the
 2. [Recommender Systems Paradigms](#recommender-systems-paradigms)
 	* [Collaborative filtering](#collaborative-filtering)
 		* [Model-Based Collaborative Filtering](#model-based-collaborative-filtering)
-		* [Content-Based Methods](#content-based-methods)
+	* [Content-Based Methods](#content-based-methods)
 3. [Recommender Systems Challenges](#recommender-systems-challenges)
 4. [Building Scalable Recommender Systems](#building-scalable-recommender-systems)
 5. [Recommender System Evaluation Metrics](#recommender-system-evaluation-metrics)
